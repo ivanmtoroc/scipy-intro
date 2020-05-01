@@ -1,10 +1,10 @@
 # 🐍📊 Scipy Intro
 
-Repository to learn Scipy.
+Repository to learn SciPy.
 
-Development using Scipy Stack.
+Development using SciPy Stack.
 
 ## References
 
-- [Scipy](https://www.scipy.org/).
+- [SciPy](https://www.scipy.org/).
 - [NumPy](https://numpy.org/).
