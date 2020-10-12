@@ -7,3 +7,4 @@ pandas==1.0.3
 scipy==1.4.1
 seaborn==0.10.1
 sympy==1.5.1
+scikit-learn==0.23.2
